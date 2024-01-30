@@ -63,5 +63,6 @@ fun ExampleToRun() {
 //        stringResource(R.string.quadrant_title_4),
 //        stringResource(R.string.quadrant_text_4),
 //    )
-    BusinessCard().Display()
+//    BusinessCard().Display()
+    DiceRoller().DiceWithButtonAndImage()
 }
