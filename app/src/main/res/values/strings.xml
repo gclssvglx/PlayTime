@@ -16,4 +16,12 @@
     <string name="quadrant_title_4">Column composable</string>
     <string name="quadrant_text_4">A layout composable that places its children in a vertical sequence.</string>
     <string name="dice_roller_roll">Roll</string>
+    <string name="lemonade_step_1">Tap the lemon tree to select a lemon</string>
+    <string name="lemonade_step_1_desc">Lemon tree</string>
+    <string name="lemonade_step_2">Keep tapping the lemon to squeeze it</string>
+    <string name="lemonade_step_2_desc">Lemon</string>
+    <string name="lemonade_step_3">Tap the lemonade to drink it</string>
+    <string name="lemonade_step_3_desc">Glass of lemonade</string>
+    <string name="lemonade_step_4">Tap the empty glass to start again</string>
+    <string name="lemonade_step_4_desc">Empty glass</string>
 </resources>
